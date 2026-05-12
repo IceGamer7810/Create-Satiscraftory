@@ -1,0 +1,38 @@
+# Gradle
+.gradle/
+.gradle-home/
+build/
+out/
+bin/
+
+# IDE / VS Code
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Minecraft run configs
+run/
+runs/
+
+# Generated resources
+generated/
+src/generated/
+
+# Cache
+.cache/
